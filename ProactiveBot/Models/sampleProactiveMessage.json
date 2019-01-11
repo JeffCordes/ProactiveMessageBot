@@ -1,0 +1,20 @@
+﻿{
+  "botId": "mybotid",
+  "conversation": {
+    "bot": {
+      "id": "cd797950-15a8-11e9-9bf2-9fa72650c0de",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "user": {
+      "id": "191fc0f2-c0b1-4024-a565-c71928119cc2",
+      "name": "User"
+    },
+    "conversation": {
+      "id": "7fcc6d20-15ad-11e9-9bf2-9fa72650c0de|livechat"
+    },
+    "serviceUrl": "http://localhost:56836",
+    "channelId": "emulator"
+  },
+  "messagePayload": "this is a proactive message"
+}
